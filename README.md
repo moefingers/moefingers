@@ -8,5 +8,5 @@ I'm working on a demonstration of drawing an image and returning it on an endpoi
 - **Nitrotype has placed their pages behind cloudflare protection and it is causing issues with the API**
 - **I bypassed their cloudflare protection by including browser headers in the requests!**
 - **The only reason I did any of this at all is because they refused to expose APIs or provide keys, etc.**
+[![svg test](https://unlv-museum.infinite-syndicate.com/banner-experiments/16-axis-200x140x9-precess_100x80x6-nutate_50x35x4-tumble_30x18x2-tumble.svg)](https://unlv-museum.infinite-syndicate.com)
 
-https://unlv-museum.infinite-syndicate.com/banner-experiments/16-axis-200x140x9-precess_100x80x6-nutate_50x35x4-tumble_30x18x2-tumble.svg
