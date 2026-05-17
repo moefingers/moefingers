@@ -9,4 +9,4 @@ I'm working on a demonstration of drawing an image and returning it on an endpoi
 - **I bypassed their cloudflare protection by including browser headers in the requests!**
 - **The only reason I did any of this at all is because they refused to expose APIs or provide keys, etc.**
 [![svg test](https://unlv-museum.infinite-syndicate.com/banner-experiments/12-fibonacci-circles-100.svg)](https://unlv-museum.infinite-syndicate.com)
-[test2](https://unlv-museum.infinite-syndicate.com/banner-experiments/15-multi-80x140x14_400x60x3@6s.svg)
+![test2](https://unlv-museum.infinite-syndicate.com/banner-experiments/15-multi-80x140x14_400x60x3@6s.svg)
