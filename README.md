@@ -42,15 +42,11 @@ Two wide compound banners with mirrored layouts: prism-orbit on the left side of
 
 ## The orbit, on its own
 
-Same sphere + icosahedron, four palette variants. Basic and mono adapt to the viewer's GitHub theme via `prefers-color-scheme`; neon and prism layer a continuous hue-rotate so the colors drift forever.
+Same sphere + icosahedron in two palettes — prism (warm amber icosa over rainbow dots) and neon (cyan icosa over a magenta-to-cyan band). Both layer a continuous hue-rotate so the colors drift forever; both adapt the wireframe + label colors to the viewer's GitHub theme via `prefers-color-scheme`.
 
 <p align="center">
-  <img alt="orbit · basic" src="https://dynimage.vercel.app/api/moefingers/orbit.svg?v=basic"  width="48%">
-  <img alt="orbit · prism" src="https://dynimage.vercel.app/api/moefingers/orbit.svg?v=prism"  width="48%">
-</p>
-<p align="center">
-  <img alt="orbit · neon"  src="https://dynimage.vercel.app/api/moefingers/orbit.svg?v=neon"   width="48%">
-  <img alt="orbit · mono"  src="https://dynimage.vercel.app/api/moefingers/orbit.svg?v=mono&theme=ocean" width="48%">
+  <img alt="orbit · prism" src="https://dynimage.vercel.app/api/moefingers/orbit.svg?v=prism" width="48%">
+  <img alt="orbit · neon"  src="https://dynimage.vercel.app/api/moefingers/orbit.svg?v=neon"  width="48%">
 </p>
 
 ---
@@ -80,12 +76,6 @@ Every banner is served by [**dynimage**](https://github.com/moefingers/dynimage)
 
 - **Now** — `commits-orbit` and `typing-orbit` shipped: paired wide banners with sphere visuals on opposite sides for a left/right diptych. Syndicate rebuilt around the live brand lattice (`/public/radial1.svg`) with counter-phased shrink/expand animation.
 - **Nov 2025** — bypassed nitrotype's Cloudflare gate via browser-style headers in the proxy. The only reason any of this scrape-and-serve existed was that nitrotype refused to expose an API or keys.
-
-### Original embeds, kept for posterity
-
-[![Typing race stats — canvas-rendered PNG, original implementation](https://nitrotype-api.vercel.app/api/image-gen/racer-stats/bigmoemoney)](https://nitrotype-api.vercel.app)
-
-[![Fibonacci circles experiment from unlv-museum](https://unlv-museum.infinite-syndicate.com/banner-experiments/12-fibonacci-circles-100.svg)](https://unlv-museum.infinite-syndicate.com)
 
 ---
 
