@@ -10,8 +10,8 @@
        width="100%">
 </a>
 
-<a href="https://infinite-syndicate.com">
-  <img alt="Infinite Syndicate — counter-rotating brand lattice over Software · Computers · Client Portal"
+<a href="https://recanon.com">
+  <img alt="Recanon — counter-rotating brand lattice over Software · Computers · Client Portal"
        src="https://dynimage.vercel.app/api/moefingers/syndicate.svg"
        width="100%">
 </a>
