@@ -16,6 +16,16 @@
        width="100%">
 </a>
 
+<a href="https://unlv-museum.recanon.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://github.com/moefingers/unlv-museum/raw/shepherd/.github/readme/museum-card-dark.svg">
+    <img alt="UNLV Museum — a museum of UNLV Software Development bootcamp-era projects, card unfolding over the project globe"
+         src="https://github.com/moefingers/unlv-museum/raw/shepherd/.github/readme/museum-card-light.svg"
+         width="100%">
+  </picture>
+</a>
+
 ---
 
 <div align="center">
